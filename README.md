@@ -1,2 +1,2 @@
-# Normi-OS-gnome-ISO
-Normi-OS-gnome-ISO
+# Normi-OS-plasma-ISO
+Normi-OS-plasma-ISO
